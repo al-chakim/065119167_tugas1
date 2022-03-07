@@ -15,4 +15,4 @@ main() {
   print(Rectangle(origin: const Point(10, 10)));
   print(Rectangle(width: 200));
   print(Rectangle());
-} // Included main() to suppress uncaught exception.
+} 
