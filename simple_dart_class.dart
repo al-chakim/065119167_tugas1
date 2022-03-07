@@ -20,5 +20,6 @@ class Bicycle {
 
 void main() {
   var bike = Bicycle(2, 1);
+  bike.speedUp(25);
   print(bike);
 }
